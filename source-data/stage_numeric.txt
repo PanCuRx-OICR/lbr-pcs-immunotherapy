@@ -1,0 +1,11 @@
+stage	stage_numeric	stage_bin
+I	1	I
+IA	1.1	I
+II	2	II
+III	3	III
+IIIA	3.1	III
+IIIB	3.2	III
+IIIC	3.3	III
+IV	4	IV
+IVA	4.1	IV
+IVB	4.2	IV

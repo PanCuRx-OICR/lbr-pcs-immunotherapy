@@ -1,0 +1,43 @@
+signature_name	signature_number	biliary_nikZainal	liver_nikZainal	pancreas_nikZainal	pancurx	meta
+Signature.1	1	B		F	Y	clock-like
+Signature.2	2	C		C	Y	APOBEC
+Signature.3	3	G	F	E	Y	HRD
+Signature.5	5	I		M	Y	clock-like
+Signature.6	6				Y	MMR
+Signature.8	8	G		K	Y	HRD
+Signature.9	9					POL
+Signature.10	10					POL
+Signature.13	13	C	F	J	Y	APOBEC
+Signature.14	14					MMR
+Signature.15	15					MMR
+Signature.16	16		A			unknown
+Signature.17	17	A	N	"D, 0"	Y	SBS17
+Signature.18	18	F	M	B	Y	ROS
+Signature.19	19		G			unknown
+Signature.20	20				Y	MMR
+Signature.21	21					MMR
+Signature.24	24	D	C			aflatoxin
+Signature.25	25					chemo
+Signature.26	26				Y	MMR
+Signature.28	28					unknown
+Signature.30	30	H		N		NTHL1
+Signature.31	31					chemo
+Signature.32	32					azathioprine
+Signature.34	34					unknown
+Signature.35	35					chemo
+Signature.37	37					unknown
+Signature.39	39					unknown
+Signature.40	40					unknown
+Signature.41	41					unknown
+Signature.44	44					MMR
+Signature.85	85					AID
+Signature.86	86					chemo
+Signature.87	87					chemo
+Signature.89	89					unknown
+Signature.90	90					chemo
+Signature.10a	10a					POL
+Signature.10b	10b					POL
+Signature.10c	10c					POL
+Signature.10d	10d					POL
+Signature.17a	17a	A	N	"D, 0"	Y	SBS17
+Signature.17b	17b	A	N	"D, 0"	Y	SBS17

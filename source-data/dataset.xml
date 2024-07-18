@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<autoimmune_dataset>
+    <autoimmune_data category="samples">
+        <file_name>samples.tsv</file_name>
+        <edits>
+            <edit category="02.03.24"><notes_on_edits>copied from https://docs.google.com/spreadsheets/d/1SVXgmZ71V0dt3jJugLu4qUzisorthK9I_bo-psgTFWs/edit#gid=660438920</notes_on_edits></edit>
+            <edit category="20.03.24"><notes_on_edits>removed duplicate BTC0034 metastatic sample</notes_on_edits></edit>
+        </edits>
+    </autoimmune_data>
+    <autoimmune_data category="cell_metatypes">
+        <file_name>cell_metatypes.txt</file_name>
+        <edits>
+            <edit category="27.02.24"><notes_on_edits>manually chosen by Fe Beaudry</notes_on_edits></edit>
+        </edits>
+    </autoimmune_data>
+    <autoimmune_data category="deconvolution">
+        <file_name>estimation_matrix.csv</file_name>
+        <edits>
+            <edit category="22.02.24"><notes_on_edits>from email from Kevin Wang</notes_on_edits></edit>
+        </edits>
+    </autoimmune_data>
+    <autoimmune_data category="clinical">
+        <file_name>clinical_data.txt</file_name>
+        <edits>
+            <edit category="04.03.24"><notes_on_edits>from email from Kevin Wang</notes_on_edits></edit>
+            <edit category="20.03.24"><notes_on_edits>updates from source</notes_on_edits></edit>
+            <edit category="20.03.24"><notes_on_edits>MSI status set to true for BTC9011</notes_on_edits></edit>
+        </edits>
+    </autoimmune_data>
+        <autoimmune_data category="clinical-source">
+        <file_name>ALL_BTC_FINAL_Data_20240319_Fe.xlsx</file_name>
+        <edits>
+            <edit category="20.03.24"><notes_on_edits>from email from Kevin Wang</notes_on_edits></edit>
+        </edits>
+    </autoimmune_data>
+    <autoimmune_data category="treatments">
+        <file_name>treatments.txt</file_name>
+        <edits>
+            <edit category="06.03.24"><notes_on_edits>from email from Kevin Wang</notes_on_edits></edit>
+        </edits>
+    </autoimmune_data>
+    <autoimmune_data category="MD Anderson NGS">
+        <file_name>MDA_NGS.xlsx</file_name>
+        <edits>
+            <edit category="21.03.24"><notes_on_edits>from email from Kevin Wang</notes_on_edits></edit>
+        </edits>
+    </autoimmune_data>
+</autoimmune_dataset>

@@ -1,0 +1,46 @@
+cell_metatype	cell_type
+scores	cytotoxicity score
+scores	stroma score
+scores	immune score
+scores	microenvironment score
+scores	uncharacterized cell
+b_cells	B cell
+b_cells	B cell memory
+b_cells	B cell naive
+b_cells	B cell plasma
+b_cells	Class-switched memory B cell
+neutrophil	Neutrophil
+M	Macrophage
+M	Macrophage M0
+M	Macrophage M1
+M	Macrophage M2
+M	Macrophage/Monocyte
+M	Monocyte
+mast	Mast cell
+mast	Mast cell activated
+mast	Mast cell resting
+NK	NK cell
+NK	NK cell activated
+NK	NK cell resting
+NK	T cell NK
+CD8+	T cell CD8+ central memory
+CD8+	T cell CD8+ effector memory
+CD8+	T cell CD8+ naive
+CD8+	T cell CD8+
+CD4+	T cell CD4+
+CD4+	T cell CD4+ central memory
+CD4+	T cell CD4+ effector memory
+CD4+	T cell CD4+ (non-regulatory)
+CD4+	T cell CD4+ memory
+CD4+	T cell CD4+ memory activated
+CD4+	T cell CD4+ memory resting
+CD4+	T cell CD4+ naive
+CD4+	T cell CD4+ Th1
+CD4+	T cell CD4+ Th2
+t_cells	T cell
+t_cells	T cell follicular helper
+t_cells	T cell gamma delta
+t_cells	T cell regulatory (Tregs)
+myeloid	Myeloid dendritic cell
+myeloid	Myeloid dendritic cell activated
+myeloid	Myeloid dendritic cell resting
