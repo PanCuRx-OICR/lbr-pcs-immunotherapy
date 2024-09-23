@@ -17,7 +17,7 @@ setwd(basedir)
 source(paste0(basedir, "/BTC.functions.R"))
 
 stage_plotting <- fread("autoimmune-disorders/source-data/stage_numeric.txt")
-cosmic3.meta <- fread('autoimmune-disorders/source-data/cosmic3.meta.txt', header = T)
+cosmic3.meta <- fread('Documents/scripts/github/lbr-pcs-immunotherapy/source-data/cosmic3.meta.txt', header = T)
 actionable_list <- fread("autoimmune-disorders/source-data/vogel_lamarca_kendre.actionable.txt", header=T)
 actionable_list <- rbind.data.frame(actionable_list, cbind.data.frame("gene"="TP53", "actionable_type"="point"))
 
